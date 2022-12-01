@@ -1,0 +1,10 @@
+body {
+    background: #fff;
+    padding: 20px;
+  }
+  .vanta { 
+    min-height: 300px;
+    color: orange;
+    padding: 20px;
+    font-size: 24px;
+  }

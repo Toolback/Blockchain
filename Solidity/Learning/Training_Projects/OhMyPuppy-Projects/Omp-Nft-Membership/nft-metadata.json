@@ -1,0 +1,28 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Membership Acces"
+      },
+      {
+        "trait_type": "Global",
+        "value": "Playing"
+      },
+      {
+        "trait_type": "Color Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Toys",
+        "value": "Bone"
+      },
+      {
+        "trait_type": "Special",
+        "value": "Flower"
+      }
+    ],
+    "description": "OhMyPuppy MemberShip VIP Acces Card",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQtZ7ZqgZYs2aRaFcETUf9yVm2rFP18ptdkffPzYg93Li",
+    "name": "Muny"
+  }
+  

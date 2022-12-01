@@ -1,0 +1,118 @@
+.mainContainer {
+  
+  background-color: #07192F;
+  display: inline;
+  justify-content: center;
+  width: 100%;
+}
+
+.dataContainer {
+  background-color: #07192F;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 600px;
+  
+}
+
+.header {
+  font-family: cursive;
+  background-color: #07192F;
+  color: white;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.bio {
+  text-align: center;
+  color: gray;
+  margin-top: 16px;
+}
+
+.writeAPoem {
+  font-family: cursive;
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  align-content: center;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  background-color: #07192F;
+
+}
+
+.logo {
+  font-family: cursive;
+  color: white;
+  font-size: 3rem;
+}
+
+.navlinks {
+  font-family: cursive;
+  color: white;
+}
+
+.navlinks-ul {
+  list-style: none;
+  display: inline-flex;
+  justify-content: space-between;
+
+}
+
+.navlinks-li {
+  font-size: 1rem;
+  padding: 10px;
+
+}
+
+.PoemForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.infosPoemForm {
+  color: white;
+  font-size: 1rem;
+  justify-content: center;
+  margin-bottom: 1px;
+}
+
+.input-poem-name {
+  padding: 0.7rem;
+width: 20rem;
+}
+
+.input-poem-title {
+  padding: 0.7rem;
+  widht: 20rem;
+}
+.input-poem-text {
+  width: 40rem;
+  padding: 6rem;
+  
+}
+
+.ListofAllPoem {
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+  align-items: center;
+
+}
+
+.AllPoems {
+  background-color: #F4F4F4; 
+  margin-top: 16px; 
+  padding: 8px;
+  width: 70rem;
+}
